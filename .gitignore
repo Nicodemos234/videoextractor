@@ -1,0 +1,6 @@
+# exclude everything
+parts/*
+video.mp4
+
+# exception to the rule
+!parts/.gitkeep 

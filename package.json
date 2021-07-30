@@ -1,0 +1,16 @@
+{
+  "name": "videoextractor",
+  "version": "1.0.0",
+  "description": "video cortes",
+  "main": "index.js",
+  "scripts": {
+    "cut": "node index.js"
+  },
+  "author": "Nicodemos234",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
