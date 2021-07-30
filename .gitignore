@@ -1,4 +1,5 @@
 # exclude everything
+node_modules
 parts/*
 video.mp4
 
